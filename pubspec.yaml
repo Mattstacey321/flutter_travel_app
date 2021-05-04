@@ -1,0 +1,51 @@
+name: flutter_travel_app
+description: A new Flutter project.
+publish_to: "none"
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  carousel_slider: ^4.0.0-nullsafety.0
+  eva_icons_flutter: ^3.0.0
+  get: ^4.1.4
+  video_player: ^2.1.1
+  chewie: ^1.0.0
+  flutter_rating_bar: ^4.0.0
+  smooth_page_indicator: ^0.3.0-nullsafety.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/
+    - assets/countries/china/
+    - assets/countries/china/places/
+    - assets/countries/china/places/the_great_wall/
+    - assets/countries/china/places/the_summer_place/
+    - assets/countries/china/places/yunnan/
+    - assets/countries/china/videos/
+    - assets/countries/japan/
+    - assets/countries/japan/places/
+    - assets/countries/japan/places/historic_kyoto/
+    - assets/countries/japan/places/kiso_valley/
+    - assets/countries/japan/places/mount_fuji/
+    - assets/countries/japan/videos/
+    - assets/countries/korea/
+    - assets/countries/korea/places/
+    - assets/countries/korea/places/busan/
+    - assets/countries/korea/places/gyeongju/
+    - assets/countries/korea/places/jeju_island/
+    - assets/countries/korea/videos/
+    - assets/countries/vietnam/
+    - assets/countries/vietnam/places/
+    - assets/countries/vietnam/places/ha_long_bay/
+    - assets/countries/vietnam/places/sapa_lao_cai/
+    - assets/countries/vietnam/places/trang_an_ninh_binh/
+    - assets/countries/vietnam/videos/

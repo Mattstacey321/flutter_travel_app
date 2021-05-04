@@ -1,0 +1,143 @@
+[
+    {
+        "id": "86",
+        "name": "Chinese",
+        "video": "assets/countries/china/videos/china.mp4",
+        "description": "China is a country in East Asia. It is the world's most populous country, with a population of around 1.4 billion.",
+        "placeVisit": [
+            {
+                "name": "The Summer Place",
+                "description": "The Summer Place is a vast ensemble of lakes, gardens and palaces in Beijing. It was an imperial garden in the Qing dynasty. Mainly dominated by Longevity Hill (万寿山; 萬壽山; Wànshòu Shān) and Kunming Lake, it covers an expanse of 2.9 square kilometres (1.1 sq mi), three-quarters of which is water.",
+                "photos": [
+                    "assets/countries/china/places/the_summer_place/summer_place_1.jpg",
+                    "assets/countries/china/places/the_summer_place/summer_place_2.jpg",
+                    "assets/countries/china/places/the_summer_place/summer_place_3.jpg",
+                    "assets/countries/china/places/the_summer_place/summer_place_4.jpg"
+                ]
+            },
+            {
+                "name": "The Great Wall of China",
+                "description": "The Great Wall of China is a series of fortifications that were built across the historical northern borders of ancient Chinese states and Imperial China as protection against various nomadic groups from the Eurasian Steppe. Several walls were built from as early as the 7th century BC,[2] with selective stretches later joined together by Qin Shi Huang (220–206 BC), the first emperor of China. Little of the Qin wall remains.[3] Later on, many successive dynasties have built and maintained multiple stretches of border walls. The most well-known sections of the wall were built by the Ming dynasty (1368–1644).",
+                "photos": [
+                    "assets/countries/china/places/the_great_wall/1.jpg",
+                    "assets/countries/china/places/the_great_wall/2.jpg",
+                    "assets/countries/china/places/the_great_wall/3.jpg",
+                    "assets/countries/china/places/the_great_wall/4.jpg"
+                ]
+            },
+            {
+                "name": "Yunnan",
+                "description": "Yunnan is situated in a mountainous area, with high elevations in the northwest and low elevations in the southeast. Most of the population lives in the eastern part of the province. In the west, the altitude can vary from the mountain peaks to river valleys by as much as 3,000 metres (9,800 ft). Yunnan is rich in natural resources and has the largest diversity of plant life in China. Of the approximately 30,000 species of higher plants in China, Yunnan has perhaps 17,000 or more.[6] Yunnan's reserves of aluminium, lead, zinc and tin are the largest in China, and there are also major reserves of copper and nickel.",
+                "photos": [
+                    "assets/countries/china/places/yunnan/yunnan_1.jpg",
+                    "assets/countries/china/places/yunnan/yunnan_2.jpg",
+                    "assets/countries/china/places/yunnan/yunnan_3.jpg"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "84",
+        "name": "Viet Nam",
+        "description": "Viet Nam is a country in Southeast Asia. It is located at the eastern edge of the Indochinese Peninsula, and is divided into 58 provinces and five municipalities, covering 331,699 square kilometres, with a population of over 96 million inhabitants, making it the world's sixteenth-most populous country. Vietnam shares borders China to the north, and Laos and Cambodia to the west; while maintaining maritime borders with Thailand through the Gulf of Thailand, and the Philippines, Indonesia and Malaysia through the South China Sea.[n 5] Its capital is Hanoi, and the largest city is Ho Chi Minh City.",
+        "video": "assets/countries/vietnam/videos/vietnam.mp4",
+        "placeVisit": [
+            {
+                "name": "Ha Long Bay - Quang Ninh",
+                "description": "Ha Long Bay is a beautiful natural wonder in northern Vietnam near the Chinese border. The Bay is dotted with 1,600 limestone islands and islets and covers an area of over 1,500 sqkm. This extraordinary area was declared a UNESCO World Heritage Site in 1994. For many tourists, this place is like something right out of a movie. The fact is that Halong Bay features a wide range of biodiversity, while the surrealistic scenery has indeed featured in endless movies.",
+                "photos": [
+                    "assets/countries/vietnam/places/ha_long_bay/ha_long_bay_1.jpg",
+                    "assets/countries/vietnam/places/ha_long_bay/ha_long_bay_2.jpg",
+                    "assets/countries/vietnam/places/ha_long_bay/ha_long_bay_3.jpg"
+                ]
+            },
+            {
+                "name": "Sapa - Lao Cai",
+                "description": "Sapa is a small, mountain town in Lao Cai Province. It is located about 350 km northwest of Hanoi, close to the Chinese border. Here's where you'll find the Hoang Lien Son range of mountains, which includes Fan Si Pan—the country's highest peak.",
+                "photos": [
+                    "assets/countries/vietnam/places/sapa_lao_cai/sapa_1.jpg",
+                    "assets/countries/vietnam/places/sapa_lao_cai/sapa_2.jpg",
+                    "assets/countries/vietnam/places/sapa_lao_cai/sapa_3.jpg"
+                ]
+            },
+            {
+                "name": "Trang An - Ninh Binh",
+                "description": "Trang An is of global significance as an outstanding humid tropical tower-karst landscape in the final stages of geomorphic evolution. It is composed of a variety of classical karst cones and towers and a network of enclosed depressions connected by an intricate system of subterranean waterways, some of which are navigable by small boats.",
+                "photos": [
+                    "assets/countries/vietnam/places/trang_an_ninh_binh/trang_an_1.jpg",
+                    "assets/countries/vietnam/places/trang_an_ninh_binh/trang_an_2.jpg",
+                    "assets/countries/vietnam/places/trang_an_ninh_binh/trang_an_3.jpg"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "81",
+        "name": "Japan",
+        "description": "Japan is an island country in East Asia, located in the northwest Pacific Ocean. It is bordered on the west by the Sea of Japan, and extends from the Sea of Okhotsk in the north toward the East China Sea and Taiwan in the south. Part of the Ring of Fire, Japan spans an archipelago of 6852 islands covering 377,975 square kilometers (145,937 sq mi); the five main islands are Hokkaido, Honshu, Shikoku, Kyushu, and Okinawa. Tokyo is Japan's capital and largest city; other major cities include Yokohama, Osaka, Nagoya, Sapporo, Fukuoka, Kobe, and Kyoto.",
+        "video": "assets/countries/japan/videos/japan.mp4",
+        "placeVisit": [
+            {
+                "name": "Historic Monuments of Ancient Kyoto",
+                "description": "Built in A.D. 794 on the model of the capitals of ancient China, Kyoto was the imperial capital of Japan from its foundation until the middle of the 19th century. As the centre of Japanese culture for more than 1,000 years, Kyoto illustrates the development of Japanese wooden architecture, particularly religious architecture, and the art of Japanese gardens, which has influenced landscape gardening the world over.",
+                "photos": [
+                    "assets/countries/japan/places/historic_kyoto/kyoto_1.png",
+                    "assets/countries/japan/places/historic_kyoto/kyoto_2.jpg",
+                    "assets/countries/japan/places/historic_kyoto/kyoto_3.jpg"
+                ]
+            },
+            {
+                "name": "Kiso Valley",
+                "description": "The Kiso Valley (木曽路, Kisoji) is located in Nagano Prefecture, and runs alongside the mountains of the Central Alps. An ancient 70 km trade route called the Kisoji was developed along the valley and served as a very important means of commerce in the area.",
+                "photos": [
+                    "countries/japan/places/kiso_valley/kiso_valley_1.jpg",
+                    "countries/japan/places/kiso_valley/kiso_valley_2.jpg",
+                    "countries/japan/places/kiso_valley/kiso_valley_3.jpg"
+                ]
+            },
+            {
+                "name": "Mount Fuji",
+                "description": "Mount Fuji (富士山, Fujisan) is with 3776 meters Japan's highest mountain. It is not surprising that the nearly perfectly shaped volcano has been worshiped as a sacred mountain and experienced big popularity among artists and common people throughout the centuries.",
+                "photos": [
+                    "countries/japan/places/mount_fuji/mount_fuji_1.jpg",
+                    "countries/japan/places/mount_fuji/mount_fuji_2.jpg",
+                    "countries/japan/places/mount_fuji/mount_fuji_3.jpg"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "850",
+        "name": "Korea",
+        "description": "Korea is a region in East Asia. Since 1945 it has been divided into the two parts which soon became the two sovereign states: North Korea (officially the 'Democratic People's Republic of Korea') and South Korea (officially the 'Republic of Korea'). Korea consists of the Korean Peninsula, Jeju Island, and several minor islands near the peninsula. It is bordered by China to the northwest and Russia to the northeast. It is separated from Japan to the east by the Korea Strait and the Sea of Japan (East Sea).",
+        "video": "assets/countries/korea/videos/korea.mp4",
+        "placeVisit": [
+            {
+                "name": "Busan",
+                "description": "When Koreans and tourists alike need a relaxing getaway in South Korea, they head to Busan. The city is famous for its laid-back atmosphere, beaches, natural hot springs, and reserves, and great street eats, festivals, and shopping fill the pleasant days.",
+                "photos": [
+                    "assets/countries/korea/places/busan/busan_1.jpg",
+                    "assets/countries/korea/places/busan/busan_2.jpg",
+                    "assets/countries/korea/places/busan/busan_3.jpg"
+                ]
+            },
+            {
+                "name": "Gyeongju",
+                "description": "Gyeongju is a city in the North Gyeongsang Province, near the southeastern coast of mainland Korea. It’s an hour’s drive or bus ride north of Busan and a perfect day trip for those seeking a unique cultural experience.",
+                "photos": [
+                    "assets/countries/korea/places/gyeongju/gyeongju_1.jpg",
+                    "assets/countries/korea/places/gyeongju/gyeongju_2.jpg"
+                ]
+            },
+            {
+                "name": "Jeju Island",
+                "description": "Jeju Island is the largest island in South Korea, located in the Jeju Province. The island covers an area of 1833.2 km², which is 1.83 percent of the total area of South Korea. In 2020, the resident registration population is about 670,000, the largest among the islands in South Korea",
+                "photos": [
+                    "assets/countries/korea/places/jeju_island/jeju_1.jpg",
+                    "assets/countries/korea/places/jeju_island/jeju_2.jpg",
+                    "assets/countries/korea/places/jeju_island/jeju_3.jpg"
+                ]
+            }
+        ]
+    }
+]
